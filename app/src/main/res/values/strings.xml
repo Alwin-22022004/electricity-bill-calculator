@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ElectricityBillCalculator</string>
+    <string name="title_electricity_bill_calculator">Electricity Bill Calculator</string>
+    <string name="label_consumer_name">Consumer Name</string>
+    <string name="hint_enter_consumer_name">Enter consumer name</string>
+    <string name="label_consumer_number">Consumer Number</string>
+    <string name="hint_enter_consumer_number">Enter consumer number</string>
+    <string name="label_units_consumed">Units Consumed</string>
+    <string name="hint_enter_units_consumed">Enter units consumed</string>
+    <string name="btn_calculate_bill">Calculate Bill</string>
+    <string name="default_energy_charges">Energy Charges: ₹0.00</string>
+    <string name="btn_save_bill">Save Bill</string>
+    <string name="btn_view_all_bills">View All Bills</string>
+
+    <string name="error_enter_units">Enter units consumed</string>
+    <string name="error_units_negative">Units cannot be negative</string>
+    <string name="error_invalid_units">Invalid units value</string>
+    <string name="error_rates_not_configured">Rates for units above 100 are not configured.</string>
+    <string name="error_enter_units_0_to_100">Enter units from 0 to 100</string>
+    <string name="error_enter_consumer_name">Enter consumer name</string>
+    <string name="error_enter_consumer_number">Enter consumer number</string>
+    <string name="msg_bill_saved">Bill saved successfully</string>
+    <string name="msg_failed_to_save">Failed to save bill</string>
+    <string name="dialog_title_saved_bills">Saved Electricity Bills</string>
+    <string name="dialog_no_bills">No electricity bills found.</string>
+</resources>
